@@ -1,0 +1,94 @@
+[
+    {
+        "merged": "C:\\Users\\SMHRD\\.gradle\\daemon\\8.0\\com.smhrd.gmore.app-mergeDebugResources-36:\\layout\\activity_board_detail.xml",
+        "source": "C:\\Users\\SMHRD\\.gradle\\daemon\\8.0\\com.smhrd.gmore.app-main-39:\\layout\\activity_board_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\SMHRD\\.gradle\\daemon\\8.0\\com.smhrd.gmore.app-mergeDebugResources-36:\\layout\\activity_home.xml",
+        "source": "C:\\Users\\SMHRD\\.gradle\\daemon\\8.0\\com.smhrd.gmore.app-main-39:\\layout\\activity_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\SMHRD\\.gradle\\daemon\\8.0\\com.smhrd.gmore.app-mergeDebugResources-36:\\layout\\activity_my_write_list.xml",
+        "source": "C:\\Users\\SMHRD\\.gradle\\daemon\\8.0\\com.smhrd.gmore.app-main-39:\\layout\\activity_my_write_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\SMHRD\\.gradle\\daemon\\8.0\\com.smhrd.gmore.app-mergeDebugResources-36:\\layout\\board_category_item.xml",
+        "source": "C:\\Users\\SMHRD\\.gradle\\daemon\\8.0\\com.smhrd.gmore.app-main-39:\\layout\\board_category_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\SMHRD\\.gradle\\daemon\\8.0\\com.smhrd.gmore.app-mergeDebugResources-36:\\layout\\chat_msg_temp.xml",
+        "source": "C:\\Users\\SMHRD\\.gradle\\daemon\\8.0\\com.smhrd.gmore.app-main-39:\\layout\\chat_msg_temp.xml"
+    },
+    {
+        "merged": "C:\\Users\\SMHRD\\.gradle\\daemon\\8.0\\com.smhrd.gmore.app-mergeDebugResources-36:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\SMHRD\\.gradle\\daemon\\8.0\\com.smhrd.gmore.app-main-39:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\SMHRD\\.gradle\\daemon\\8.0\\com.smhrd.gmore.app-mergeDebugResources-36:\\layout\\activity_chat.xml",
+        "source": "C:\\Users\\SMHRD\\.gradle\\daemon\\8.0\\com.smhrd.gmore.app-main-39:\\layout\\activity_chat.xml"
+    },
+    {
+        "merged": "C:\\Users\\SMHRD\\.gradle\\daemon\\8.0\\com.smhrd.gmore.app-mergeDebugResources-36:\\layout\\activity_edit_profile.xml",
+        "source": "C:\\Users\\SMHRD\\.gradle\\daemon\\8.0\\com.smhrd.gmore.app-main-39:\\layout\\activity_edit_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\SMHRD\\.gradle\\daemon\\8.0\\com.smhrd.gmore.app-mergeDebugResources-36:\\layout\\activity_intro.xml",
+        "source": "C:\\Users\\SMHRD\\.gradle\\daemon\\8.0\\com.smhrd.gmore.app-main-39:\\layout\\activity_intro.xml"
+    },
+    {
+        "merged": "C:\\Users\\SMHRD\\.gradle\\daemon\\8.0\\com.smhrd.gmore.app-mergeDebugResources-36:\\layout\\fragment_1.xml",
+        "source": "C:\\Users\\SMHRD\\.gradle\\daemon\\8.0\\com.smhrd.gmore.app-main-39:\\layout\\fragment_1.xml"
+    },
+    {
+        "merged": "C:\\Users\\SMHRD\\.gradle\\daemon\\8.0\\com.smhrd.gmore.app-mergeDebugResources-36:\\layout\\activity_login.xml",
+        "source": "C:\\Users\\SMHRD\\.gradle\\daemon\\8.0\\com.smhrd.gmore.app-main-39:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\SMHRD\\.gradle\\daemon\\8.0\\com.smhrd.gmore.app-mergeDebugResources-36:\\layout\\activity_board_write.xml",
+        "source": "C:\\Users\\SMHRD\\.gradle\\daemon\\8.0\\com.smhrd.gmore.app-main-39:\\layout\\activity_board_write.xml"
+    },
+    {
+        "merged": "C:\\Users\\SMHRD\\.gradle\\daemon\\8.0\\com.smhrd.gmore.app-mergeDebugResources-36:\\layout\\fragment_4.xml",
+        "source": "C:\\Users\\SMHRD\\.gradle\\daemon\\8.0\\com.smhrd.gmore.app-main-39:\\layout\\fragment_4.xml"
+    },
+    {
+        "merged": "C:\\Users\\SMHRD\\.gradle\\daemon\\8.0\\com.smhrd.gmore.app-mergeDebugResources-36:\\layout\\activity_board_edit.xml",
+        "source": "C:\\Users\\SMHRD\\.gradle\\daemon\\8.0\\com.smhrd.gmore.app-main-39:\\layout\\activity_board_edit.xml"
+    },
+    {
+        "merged": "C:\\Users\\SMHRD\\.gradle\\daemon\\8.0\\com.smhrd.gmore.app-mergeDebugResources-36:\\layout\\activity_fragment_test.xml",
+        "source": "C:\\Users\\SMHRD\\.gradle\\daemon\\8.0\\com.smhrd.gmore.app-main-39:\\layout\\activity_fragment_test.xml"
+    },
+    {
+        "merged": "C:\\Users\\SMHRD\\.gradle\\daemon\\8.0\\com.smhrd.gmore.app-mergeDebugResources-36:\\layout\\activity_join.xml",
+        "source": "C:\\Users\\SMHRD\\.gradle\\daemon\\8.0\\com.smhrd.gmore.app-main-39:\\layout\\activity_join.xml"
+    },
+    {
+        "merged": "C:\\Users\\SMHRD\\.gradle\\daemon\\8.0\\com.smhrd.gmore.app-mergeDebugResources-36:\\layout\\fragment_chat_rooms.xml",
+        "source": "C:\\Users\\SMHRD\\.gradle\\daemon\\8.0\\com.smhrd.gmore.app-main-39:\\layout\\fragment_chat_rooms.xml"
+    },
+    {
+        "merged": "C:\\Users\\SMHRD\\.gradle\\daemon\\8.0\\com.smhrd.gmore.app-mergeDebugResources-36:\\layout\\activity_game_category.xml",
+        "source": "C:\\Users\\SMHRD\\.gradle\\daemon\\8.0\\com.smhrd.gmore.app-main-39:\\layout\\activity_game_category.xml"
+    },
+    {
+        "merged": "C:\\Users\\SMHRD\\.gradle\\daemon\\8.0\\com.smhrd.gmore.app-mergeDebugResources-36:\\layout\\chat_room_temp.xml",
+        "source": "C:\\Users\\SMHRD\\.gradle\\daemon\\8.0\\com.smhrd.gmore.app-main-39:\\layout\\chat_room_temp.xml"
+    },
+    {
+        "merged": "C:\\Users\\SMHRD\\.gradle\\daemon\\8.0\\com.smhrd.gmore.app-mergeDebugResources-36:\\layout\\item_comment.xml",
+        "source": "C:\\Users\\SMHRD\\.gradle\\daemon\\8.0\\com.smhrd.gmore.app-main-39:\\layout\\item_comment.xml"
+    },
+    {
+        "merged": "C:\\Users\\SMHRD\\.gradle\\daemon\\8.0\\com.smhrd.gmore.app-mergeDebugResources-36:\\layout\\fragment_3.xml",
+        "source": "C:\\Users\\SMHRD\\.gradle\\daemon\\8.0\\com.smhrd.gmore.app-main-39:\\layout\\fragment_3.xml"
+    },
+    {
+        "merged": "com.smhrd.gmore.app-mergeDebugResources-36:/layout/fragment_3.xml",
+        "source": "com.smhrd.gmore.app-main-39:/layout/fragment_3.xml"
+    },
+    {
+        "merged": "com.smhrd.gmore.app-mergeDebugResources-36:/layout/item_favorite.xml",
+        "source": "com.smhrd.gmore.app-main-39:/layout/item_favorite.xml"
+    }
+]
