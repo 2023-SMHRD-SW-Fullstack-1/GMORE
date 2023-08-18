@@ -11,11 +11,6 @@ GMORE는 각 게임별로 소통을 좀 더 쉽게 할 수 있도록 커뮤니�
 # 🕰 개발 기간
  - 2023.07.31~2023.08.04 (5일)
 
-# 🛠 사용언어 및 사용 Tool
-  - 언어 : Kotlin, node.js
-  - 데이터 베이스 : Firebase(Realtime), MySQL
-  - 개발툴 : Android Studio
-  - 협업툴 : Github
   ## ⛏ 기술스택
 <table>
     <tr>
