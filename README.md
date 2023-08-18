@@ -16,7 +16,40 @@ GMORE는 각 게임별로 소통을 좀 더 쉽게 할 수 있도록 커뮤니�
   - 데이터 베이스 : Firebase(Realtime), MySQL
   - 개발툴 : Android Studio
   - 협업툴 : Github
-  
+  ## ⛏ 기술스택
+<table>
+    <tr>
+        <th>구분</th>
+        <th>내용</th>
+    </tr>
+    <tr>
+        <td>사용언어</td>
+        <td>
+          <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white"/>
+         <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"/> 
+        </td>
+    </tr>
+    <tr>
+        <td>데이터베이스</td>
+        <td>
+            <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=Firebase&logoColor=white"/> 
+          <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"/> 
+        </td>
+    </tr>
+    <tr>
+        <td>개발툴</td>
+        <td>
+            <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white"/>
+        </td>
+    </tr>
+    <tr>
+        <td>협업툴</td>
+        <td>
+         <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"/>
+        </td>
+    </tr>
+</table>
+
 # 📌주요기능
   - 회원관리 : 회원가입, 로그인, 회원정보확인, 회원정보수정, 회원삭제 (탈퇴)
   - 게시물 관리 : 게시물 텍스트 등록, 갤러리 사진 등록, 직접 사진 찍어 등록 또는 갤러리에서 이미지 등록, 게시물 수정, 게시물 삭제, 게시물 보기
